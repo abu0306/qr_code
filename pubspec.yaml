@@ -1,8 +1,8 @@
 name: qr_code
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: abu0306 <2261983469@qq.com>
+homepage: https://github.com/abu0306/qr_code
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
